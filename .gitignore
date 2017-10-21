@@ -1,0 +1,12 @@
+
+Le glandeur de Bureau/\.idea/
+
+*.sln
+
+*.csproj
+
+Le glandeur de Bureau/Assets/Plugins\.meta
+
+Le glandeur de Bureau/Assets/Plugins/
+
+Le glandeur de Bureau/Library/
