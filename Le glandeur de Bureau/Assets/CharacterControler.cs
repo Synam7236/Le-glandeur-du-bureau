@@ -25,6 +25,10 @@ public class CharacterControler : MonoBehaviour {
 			dp.x += speed; 
 		}
 
+		if (Input.GetKey (KeyCode.Z)) {
+			dp.y += jumph; 
+		}
+
 		transform.position += dp;
 		
 	}
