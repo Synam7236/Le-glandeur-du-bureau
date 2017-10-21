@@ -2,34 +2,44 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterControler : MonoBehaviour {
+public class CharacterControler : PhysicsObject  {
+	public float maxSpeed = 7;
+	public float jumpTakeOffSpeed = 7;
 
-	public float speed = 0.18f;
-	public float jumph = 4.01f;
+	private SpriteRenderer spriteRenderer;
+	private Animator animator;
 
 	// Use this for initialization
-	void Start () {
-		
+	void Awake () 
+	{
+		spriteRenderer = GetComponent<SpriteRenderer> (); 
+		animator = GetComponent<Animator> ();
 	}
-	
-	// Update is called once per frame
-	void Update () {
 
-		Vector3 dp = new Vector3();
+	protected override void ComputeVelocity()
+	{
+		Vector2 move = Vector2.zero;
 
-		if (Input.GetKey (KeyCode.Q)) {
-			dp.x -= speed;
+		move.x = Input.GetAxis ("Horizontal");
+
+		if (Input.GetButtonDown ("Jump") && grounded) {
+			velocity.y = jumpTakeOffSpeed;
+		} else if (Input.GetButtonUp ("Jump")) 
+		{
+			if (velocity.y > 0) {
+				velocity.y = velocity.y * 0.5f;
+			}
 		}
 
-		if (Input.GetKey (KeyCode.D)) {
-			dp.x += speed; 
+		bool flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+		if (flipSprite) 
+		{
+			spriteRenderer.flipX = !spriteRenderer.flipX;
 		}
 
-		if (Input.GetKey (KeyCode.Z)) {
-			dp.y += jumph; 
-		}
+		animator.SetBool ("grounded", grounded);
+		animator.SetFloat ("velocityX", Mathf.Abs (velocity.x) / maxSpeed);
 
-		transform.position += dp;
-		
+		targetVelocity = move * maxSpeed;
 	}
 }
