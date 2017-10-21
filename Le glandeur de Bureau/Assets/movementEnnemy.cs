@@ -22,8 +22,6 @@ public class movementEnnemy : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		Debug.Log(position.position.x);
-		Debug.Log(indexPos);
 		indexPos += 1*sens;
 		position.Translate(sens*Time.deltaTime, 0, 0);
 		if (indexPos == 50 )
