@@ -15,8 +15,8 @@ public class movementEnnemy : MonoBehaviour
 	{
 		spriteRenderer = GetComponent<SpriteRenderer> (); 
 		position = GetComponent<Transform>();
-		indexPos = 0;
-		sens = 1;
+		indexPos = (position.localScale.x < 0)?50:0;
+		sens = (position.localScale.x < 0)?-1:1;
 	}
 	
 	// Update is called once per frame
