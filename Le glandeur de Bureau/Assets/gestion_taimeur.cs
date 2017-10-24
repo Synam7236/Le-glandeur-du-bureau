@@ -43,6 +43,6 @@ public class gestion_taimeur : MonoBehaviour {
 		float amount = (float)temps / maxTime;
 		timebar.fillAmount = amount;
 		if (temps == 0)
-			SceneManager.LoadScene(3);
+			SceneManager.LoadScene(2);
 	}
 }

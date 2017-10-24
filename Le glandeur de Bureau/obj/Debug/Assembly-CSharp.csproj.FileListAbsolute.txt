@@ -36,3 +36,41 @@ C:\Users\otor2\Documents\ProjetsUnity\GameJams\Le Glandeur du bureau\Le-glandeur
 C:\Users\otor2\Documents\ProjetsUnity\GameJams\Le Glandeur du bureau\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\otor2\Documents\ProjetsUnity\GameJams\Le Glandeur du bureau\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.dll
 C:\Users\otor2\Documents\ProjetsUnity\GameJams\Le Glandeur du bureau\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.pdb
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Assembly-CSharp.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\nunit.framework.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEditor.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.UI.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.Cecil.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\ExCSS.Unity.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.DataContract.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.CecilTools.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEditor.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.UI.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\nunit.framework.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.dll
+D:\travail\projets_unity\gamejam2017utop\Le-glandeur-du-bureau\Le glandeur de Bureau\obj\Debug\Assembly-CSharp.pdb
