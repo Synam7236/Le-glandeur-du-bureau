@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 65fa9d92c19dbb943a71debca9208adc
 timeCreated: 1508766854
+=======
+guid: 98a0849a598b41546ad9cac4bc1cb1c2
+timeCreated: 1508682044
+>>>>>>> master
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
