@@ -3697,13 +3697,9 @@ Prefab:
       propertyPath: m_Name
       value: CollegueToilettes1
       objectReference: {fileID: 0}
-    - target: {fileID: 4971252564021994, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
-      propertyPath: m_LocalScale.x
-      value: -0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1221160361451478, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
+    - target: {fileID: 1127398568070372, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
       propertyPath: m_TagString
-      value: Enemy
+      value: Toilette
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
@@ -13817,17 +13813,29 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4971252564021994, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
-      propertyPath: m_LocalScale.x
-      value: -0.5
-      objectReference: {fileID: 0}
     - target: {fileID: 1221160361451478, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
       propertyPath: m_Name
       value: CollegueToilettes0
       objectReference: {fileID: 0}
-    - target: {fileID: 1221160361451478, guid: 20b4289b05bed78479643857c15b9c75, type: 2}
-      propertyPath: m_TagString
-      value: Enemy
+    - target: {fileID: 61850642140210464, guid: 20b4289b05bed78479643857c15b9c75,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 61850642140210464, guid: 20b4289b05bed78479643857c15b9c75,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: 0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 61614756249949488, guid: 20b4289b05bed78479643857c15b9c75,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 61614756249949488, guid: 20b4289b05bed78479643857c15b9c75,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.04
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 20b4289b05bed78479643857c15b9c75, type: 2}

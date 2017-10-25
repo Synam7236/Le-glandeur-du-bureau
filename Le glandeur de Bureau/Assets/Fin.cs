@@ -5,13 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class Fin : MonoBehaviour {
 
-	void OnTriggerEnter2D(Collider2D Enemy)
+	void OnTriggerEnter2D(Collider2D coll)
 	{
-		if (Enemy.CompareTag("Fin"))
-		{
-
-			SceneManager.LoadScene (3);
-		}
+		SceneManager.LoadScene (3);
 	}
 	
 	// Update is called once per frame
