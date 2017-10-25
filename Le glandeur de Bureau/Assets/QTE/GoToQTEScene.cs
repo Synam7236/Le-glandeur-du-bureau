@@ -29,17 +29,14 @@ public class GoToQTEScene : MonoBehaviour {
         PlayerPrefs.SetFloat( "posCamY", _camera.transform.position.y);
         PlayerPrefs.SetInt (EnemyCourant, 0);
 
-		if ("C".Equals(EnemyCourant [8].ToString())) {
+        if ( "h".Equals( EnemyCourant[0].ToString() ) ) {
+            PlayerPrefs.SetInt( "EnemyEnCours", 4 );
+        } else if ("C".Equals(EnemyCourant [8].ToString())) {
 			PlayerPrefs.SetInt ("EnemyEnCours", 1);
-		}
-		if ("R".Equals(EnemyCourant [8].ToString())) {
+        } else if ( "R".Equals(EnemyCourant [8].ToString())) {
 			PlayerPrefs.SetInt ("EnemyEnCours", 2);
-		}
-		if ("I".Equals(EnemyCourant [8].ToString())) {
+		} else if ("I".Equals(EnemyCourant [8].ToString())) {
 			PlayerPrefs.SetInt ("EnemyEnCours", 3);
-		}
-		if ("T".Equals(EnemyCourant [8].ToString())) {
-			PlayerPrefs.SetInt ("EnemyEnCours", 4);
 		}
 
 	}
