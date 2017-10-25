@@ -16,7 +16,7 @@ public class Corbeille : MonoBehaviour {
 		
 	}
 	
-	void OnTriggerEnter(Collider other) {
+	void OnTriggerEnter2D( Collider2D other) {
 		Debug.Log("Plop");
 		anim.enabled = true;
 	}
