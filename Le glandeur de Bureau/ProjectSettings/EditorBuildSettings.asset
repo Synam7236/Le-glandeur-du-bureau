@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/mainScene.unity
     guid: c9f716aa405e32b43a32e6cf61352063
   - enabled: 1
+    path: Assets/sceneLevel1.unity
+    guid: 909eff525663ded47a677a03fe2b5147
+  - enabled: 1
     path: Assets/QTEScene.unity
     guid: df6e211fae78a7c47a94a1ee3555ddfc
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 98a0849a598b41546ad9cac4bc1cb1c2

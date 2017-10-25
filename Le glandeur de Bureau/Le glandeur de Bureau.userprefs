@@ -1,14 +1,6 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CharacterControler.cs">
-    <Files>
-      <File FileName="Assets\QTE\GoToQTEScene.cs" Line="25" Column="2" />
-      <File FileName="Assets\QTE\QTEFonctionsNEWScene.cs" Line="25" Column="2" />
-      <File FileName="Assets\QTE\StartScene.cs" Line="11" Column="2" />
-      <File FileName="Assets\QTE\StartGame.cs" Line="13" Column="33" />
-      <File FileName="Assets\CharacterControler.cs" Line="19" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupItem="Le glandeur de Bureau.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

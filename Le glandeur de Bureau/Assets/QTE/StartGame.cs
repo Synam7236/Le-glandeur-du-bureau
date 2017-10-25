@@ -13,15 +13,15 @@ public class StartGame : MonoBehaviour {
 
         //CollegueImprimante
         for ( int i = 0; i < 28; i++ ) {
-            PlayerPrefs.SetInt( "CollegueRelou" + i, 1 );
+            PlayerPrefs.SetInt( "collegueRelou (" + i + ")", 1 );
         }
         //CollegueImprimante
         for ( int i = 0; i < 10; i++ ) {
-            PlayerPrefs.SetInt( "CollegueCafe" + i, 1 );
+            PlayerPrefs.SetInt( "CollegueCafe (" + i + ")", 1 );
         }
         //CollegueImprimante
         for ( int i = 0; i < 29; i++ ) {
-            PlayerPrefs.SetInt( "CollegueImprimante" + i, 1 );
+            PlayerPrefs.SetInt( "CollegueImprimante (" + i + ")", 1 );
         }
         //CollegueImprimante
         for ( int i = 0; i < 14; i++ ) {

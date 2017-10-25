@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class GoToQTEScene : MonoBehaviour {
 
 	public GameObject Joueur;
+    public Camera _camera;
 	private float JoueurPrefX;
 	private float JoueurPrefY;
 
@@ -15,16 +16,18 @@ public class GoToQTEScene : MonoBehaviour {
     
 
 	void  Awake(){
-		JoueurPrefX = PlayerPrefs.GetFloat ("Axe X");
-		JoueurPrefY = PlayerPrefs.GetFloat ("Axe Y");
+		//JoueurPrefX = PlayerPrefs.GetFloat ("Axe X");
+		//JoueurPrefY = PlayerPrefs.GetFloat ("Axe Y");
 
-		}
+	}
 
 
 	void PositionJoueur( string EnemyCourant ) {
-		PlayerPrefs.SetFloat ("Axe X", Joueur.transform.position.x +1.5f);
-		PlayerPrefs.SetFloat ("Axe Y", Joueur.transform.position.y +1.5f);
-		PlayerPrefs.SetInt (EnemyCourant, 0);
+		PlayerPrefs.SetFloat ("Axe X", Joueur.transform.position.x /*+1.5f*/);
+		PlayerPrefs.SetFloat ("Axe Y", Joueur.transform.position.y /*+1.5f*/);
+        PlayerPrefs.SetFloat( "posCamX", _camera.transform.position.x);
+        PlayerPrefs.SetFloat( "posCamY", _camera.transform.position.y);
+        PlayerPrefs.SetInt (EnemyCourant, 0);
 
 		if ("C".Equals(EnemyCourant [8].ToString())) {
 			PlayerPrefs.SetInt ("EnemyEnCours", 1);
@@ -43,11 +46,13 @@ public class GoToQTEScene : MonoBehaviour {
 
 
 
-	void OnTriggerEnter2D(Collider2D Enemy)
-	{
-		if (Enemy.CompareTag("Enemy"))
+	void OnTriggerEnter2D(Collider2D Enemy) {
+        Debug.Log( Enemy.gameObject.name );
+        if (Enemy.CompareTag("Enemy"))
 		{
-			PositionJoueur ( Enemy.gameObject.name );
+            Debug.Log( Enemy.gameObject.name );
+            PlayerPrefs.SetInt( Enemy.gameObject.name, 0 );
+            PositionJoueur ( Enemy.gameObject.name );
 			SceneManager.LoadScene (1);
 		}
 	}

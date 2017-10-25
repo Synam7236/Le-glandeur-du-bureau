@@ -722,7 +722,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (7)
+      value: collegueRelou (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -1092,7 +1092,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (28)
+      value: collegueRelou (27)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -1156,7 +1156,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (2)
+      value: collegueRelou (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -1274,7 +1274,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (10)
+      value: collegueRelou (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -2001,7 +2001,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (17)
+      value: collegueRelou (16)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -2024,31 +2024,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5,
     type: 2}
   m_PrefabInternal: {fileID: 273074920}
---- !u!61 &273074923
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 273074922}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.31, y: 2}
-    newSize: {x: 1.31, y: 2}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.31, y: 2}
-  m_EdgeRadius: 0
 --- !u!1001 &285941001
 Prefab:
   m_ObjectHideFlags: 0
@@ -2249,7 +2224,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (3)
+      value: collegueRelou (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -2583,7 +2558,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (18)
+      value: collegueRelou (17)
       objectReference: {fileID: 0}
     - target: {fileID: 61723191525430150, guid: 68fc0be6552bf0a4b9edd337b30088e5,
         type: 2}
@@ -3034,7 +3009,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (8)
+      value: collegueRelou (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -3270,7 +3245,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (1)
+      value: collegueRelou (0)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -3620,7 +3595,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (13)
+      value: collegueRelou (12)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -3784,7 +3759,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (25)
+      value: collegueRelou (24)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -4590,7 +4565,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (12)
+      value: collegueRelou (11)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -5150,7 +5125,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (4)
+      value: collegueRelou (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -6111,6 +6086,10 @@ Prefab:
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 1601407749273148, guid: 356af3e035c9bcb4f9222120a6f0e416, type: 2}
+      propertyPath: m_Name
+      value: CollegueImprimante (0)
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 356af3e035c9bcb4f9222120a6f0e416, type: 2}
   m_IsPrefabParent: 0
@@ -6165,7 +6144,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (11)
+      value: collegueRelou (10)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -6225,7 +6204,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (23)
+      value: collegueRelou (22)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -7187,7 +7166,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (16)
+      value: collegueRelou (15)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -8706,7 +8685,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (5)
+      value: collegueRelou (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -8939,7 +8918,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (19)
+      value: collegueRelou (18)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -9220,7 +9199,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (20)
+      value: collegueRelou (19)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -9526,7 +9505,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (21)
+      value: collegueRelou (20)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -9813,7 +9792,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (27)
+      value: collegueRelou (26)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -9931,7 +9910,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (14)
+      value: collegueRelou (13)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -10199,7 +10178,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1606619697}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.83, y: 0, z: -10}
+  m_LocalPosition: {x: -15.43, y: -1.04, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -10299,10 +10278,10 @@ MonoBehaviour:
   target: {fileID: 2043269610}
   deadzone:
     serializedVersion: 2
-    x: -1.35
-    y: -1.53
-    width: 1.17
-    height: 2.29
+    x: -0.66
+    y: -1.17
+    width: 1.32
+    height: 2.12
   smoothPos: {x: 0, y: 0, z: 0}
   limits: []
 --- !u!1 &1632556034
@@ -11102,7 +11081,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (26)
+      value: collegueRelou (25)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -12038,7 +12017,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (9)
+      value: collegueRelou (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -12313,7 +12292,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (24)
+      value: collegueRelou (23)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -12377,7 +12356,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (15)
+      value: collegueRelou (14)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
@@ -12671,6 +12650,10 @@ Prefab:
     - target: {fileID: 4120143644232266, guid: af6c73a4e99138145a74d82a2f0ea3ec, type: 2}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1360728652880708, guid: af6c73a4e99138145a74d82a2f0ea3ec, type: 2}
+      propertyPath: m_Name
+      value: CollegueCafe (0)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: af6c73a4e99138145a74d82a2f0ea3ec, type: 2}
@@ -13353,7 +13336,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (6)
+      value: collegueRelou (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4299165511578802, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_LocalScale.x
@@ -13496,8 +13479,8 @@ GameObject:
   - component: {fileID: 2043269612}
   - component: {fileID: 2043269614}
   - component: {fileID: 2043269615}
-  - component: {fileID: 2043269613}
   - component: {fileID: 2043269617}
+  - component: {fileID: 2043269613}
   - component: {fileID: 2043269616}
   m_Layer: 0
   m_Name: Le Glandeur
@@ -13595,7 +13578,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.24}
+  m_Offset: {x: 0.12, y: -0.24}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -13606,7 +13589,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 1
   serializedVersion: 2
-  m_Size: {x: 0.82, y: 1.28}
+  m_Size: {x: 0.52, y: 1.28}
   m_EdgeRadius: 0
 --- !u!95 &2043269614
 Animator:
@@ -13667,11 +13650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Joueur: {fileID: 2043269609}
-  Cafe1: {fileID: 0}
-  Cafe2: {fileID: 0}
-  Cafe3: {fileID: 0}
-  Cafe4: {fileID: 0}
-  EnemyCourant: 
+  _camera: {fileID: 1606619700}
 --- !u!1 &2046909056
 GameObject:
   m_ObjectHideFlags: 0
@@ -13700,6 +13679,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2043269609}
+  _camera: {fileID: 1606619700}
   CollegueRelou:
   - {fileID: 517361677}
   - {fileID: 184728793}
@@ -13957,7 +13937,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_Name
-      value: collegueRelou (22)
+      value: collegueRelou (21)
       objectReference: {fileID: 0}
     - target: {fileID: 1975557894092234, guid: 68fc0be6552bf0a4b9edd337b30088e5, type: 2}
       propertyPath: m_TagString
