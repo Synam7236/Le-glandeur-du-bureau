@@ -33,6 +33,10 @@ public class StartGame : MonoBehaviour {
 	void Update () {
 		if (Input.GetButtonDown ("StartKey") || Input.GetButtonDown( "Submit" ) ) {
 			SceneManager.LoadScene (0);
-	}
-}
+	    }
+    }
+
+    public void Quit () {
+        Application.Quit();
+    }
 }
