@@ -32,7 +32,7 @@ public class StartGame : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetButtonDown ("StartKey") || Input.GetButtonDown( "Submit" ) ) {
-			SceneManager.LoadScene (0);
+			SceneManager.LoadScene (1);
 	    }
     }
 

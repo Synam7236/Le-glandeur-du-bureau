@@ -47,7 +47,7 @@ public class GoToQTEScene : MonoBehaviour {
             Debug.Log( coll.gameObject.name );
             PlayerPrefs.SetInt( coll.gameObject.name, 0 );
             PositionJoueur( coll.gameObject.name );
-            SceneManager.LoadScene( 1 );
+            SceneManager.LoadScene( 2 );
         }
 
     }
@@ -59,7 +59,7 @@ public class GoToQTEScene : MonoBehaviour {
             Enemy.enabled = false;
             PlayerPrefs.SetInt( Enemy.gameObject.name, 0 );
             PositionJoueur ( Enemy.gameObject.name );
-			SceneManager.LoadScene (1);
+			SceneManager.LoadScene (2);
 		}
 	}
 }

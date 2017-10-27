@@ -33,6 +33,6 @@ public class gestion_taimeur : MonoBehaviour {
         temps = Mathf.Clamp( temps, 0, maxTime );
         timebar.fillAmount = temps / maxTime;
         if ( temps == 0 )
-            SceneManager.LoadScene( 2 );
+            SceneManager.LoadScene( 3 );
     }
 }

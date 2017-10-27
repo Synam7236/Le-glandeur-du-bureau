@@ -7,7 +7,7 @@ public class Fin : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D coll)
 	{
-		SceneManager.LoadScene (3);
+		SceneManager.LoadScene (4);
 	}
 	
 	// Update is called once per frame

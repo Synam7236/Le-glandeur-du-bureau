@@ -8,6 +8,6 @@ public class RetourMenu : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if ( Input.anyKey )
-            SceneManager.LoadScene( 4 );
+            SceneManager.LoadScene( 0 );
     }
 }
